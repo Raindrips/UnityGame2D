@@ -1,0 +1,14 @@
+# unity
+.vs/
+Temp/
+Logs/
+obj/
+*_Build/
+*.csproj
+*.sln
+Library/
+Library/*
+!Library/LastSceneManagerSetup.txt
+
+# visual studio code
+.vsconfig
